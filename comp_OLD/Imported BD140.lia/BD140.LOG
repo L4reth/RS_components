@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : BD140.LibPkg
+
+Section : D:\Altium_doc\Rs_comp\BD140.lia
+    Section : PCB Library - BD140.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 106
+            Warning - 1 : Skipping Token isVisible On Line 107
+            Warning - 1 : Skipping Token isVisible On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 133
+            Warning - 1 : Skipping Token isVisible On Line 134
+            Warning - 1 : Skipping Token isVisible On Line 135
+            Warning - 1 : Skipping Token PNP On Line 192
+            Warning - 1 : Skipping Token attachedSymbol On Line 262
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - BD140.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 155
+        EndSection
+
+        Section : Generating SCH Library - BD140.SchLib
+        EndSection
+    EndSection
+EndSection

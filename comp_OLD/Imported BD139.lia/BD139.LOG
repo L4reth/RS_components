@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : BD139.LibPkg
+
+Section : D:\Altium_doc\Rs_comp\BD139.lia
+    Section : PCB Library - BD139.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NPN On Line 175
+            Warning - 1 : Skipping Token attachedSymbol On Line 246
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [TO126AV][Primary] associated with PCAD Component [BD139] has been renamed to PCB FootPrint [TO126AV_BD139(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BD139.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 141
+        EndSection
+
+        Section : Generating SCH Library - BD139.SchLib
+            Warning - 0 : PCAD Pattern Graphics [TO126AV][Primary] associated with PCAD Component [BD139] has been renamed to PCB FootPrint [TO126AV_BD139(Primary)].
+        EndSection
+    EndSection
+EndSection
